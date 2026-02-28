@@ -1,0 +1,26 @@
+# Endee Python SDK
+endee>=0.1.0
+
+# HuggingFace embeddings
+sentence-transformers>=2.2.0
+transformers>=4.36.0
+torch>=2.1.0
+
+# HuggingFace Inference API (for LLM generation)
+huggingface-hub>=0.20.0
+
+# Document processing
+pypdf>=4.0.0
+python-docx>=1.1.0
+beautifulsoup4>=4.12.0
+markdown>=3.5.0
+
+# Text chunking
+tiktoken>=0.5.0
+
+# Web UI
+gradio>=4.15.0
+
+# Utilities
+python-dotenv>=1.0.0
+rich>=13.7.0
